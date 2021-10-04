@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+		body
+		{
+			background-image:url("real-background-images-9.jpg");
+			background-size:cover;
+		}
+		p
+		{
+			color: aquamarine;
+			float: left;
+		}
+		table
+		{
+			padding-left: 5px;
+	
+
+			padding-right: 5px;
+			color:khaki;
+			background-color:darkgray
+		}
+		th:hover
+		{
+			color: black;
+		}
+		
